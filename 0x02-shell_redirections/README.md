@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
